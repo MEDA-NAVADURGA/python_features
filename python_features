@@ -1,0 +1,70 @@
+========================================================
+1)simple:=
+========================================================
+      A python is simple language beacause of three main reasons.They are
+                         ***python is rich in API's(APPLICATION PROGRAM INTERFACE) simply it consist of more no.of libraries (a                             collection of modulue).
+                         ***python also provides "GARBAGE COLLECTOR"(background python program used for collecting un-used memory....then we can get the more efficiency for python application programs).
+                         ***it followes simple syntaxes as complare to another languages like c,java....etc.
+==========================================================
+2)FREE AND OPEN SOURCE:=
+==========================================================
+***python is one of freeware language because we can download the python freely, 
+                                          we no need to pay any charges for downloading and using of python 
+***open source means once we download python as standard form of CPYTHON given by PSF(python software foundation) If we want to make 
+        some changes in python or add some exctra additional features to it we can to do that on python..and that changes are also available for all users..
+        means for example so many vendors came into CPYTHON and then customized CPYTHON for their developing of own software tools and then they release
+        to the industry on the name on distribution of python.
+============================================================
+3)INTERPRETED :=
+============================================================
+****PYTHON IS interpreted language means python the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine(PVM) in line by line.
+        C-EXECUTION ENVIRONMENT:=
+        -----------------------------
+         SOURCE SODE WITH .C extension ================> INTERMEDIATE CODE(.OBJ extension)===============>  executable code(bite code or machine understandable code)
+                                         (converts by compiler)                            (converts by C-SHELL)
+                                         (total code at a single time)                                     (total code at a single time)
+        PYTHON - EXECUTATION ENVIRONMENT:=
+        ----------------------------------
+                                         (converts by interpreter) 
+                                         (line by line at a time)                                             (converts by PVM(python vitual machine)
+                                                                                                                (line by line at a time)
+        source code (with .py extension)====================>intermeadiate code alias byte code(.pyc extension)=======================>executable code(bite code or machine understandable code)
+===============================================================
+4)PLATFORM INDEPENDENT AND PORTABLE:=
+===============================================================
+       ***Platform independent means the python code is can run any os(operation sistem),it does not dependent on operating system like linux,microsoft windows,ios...etc 
+        becoz size of data types in python canot be change from one os to another of ecause in python all the values stored in object formate and the objects does not have size restrictions and then the objects stores un-limited amount of data so we can run any plateform result python is platform independent...
+            IN PYTHON:=
+            --------------------------------------------------
+                   ex:=                 MS-OS                       UNIX-OS
+                            INT          2 BYTES                     2 BYTES
+                            FLOATE       4 BYTES                     4 BYTES
+            BUT IN C OR CPP(PLATEFORM DEPENDENT LANGUAGES):=
+            -------------------------------------------------             
+                     ex:=                 MS-OS                       UNIX-OS
+                            INT          2 BYTES                     4 BYTES
+                            FLOATE       4 BYTES                     8 BYTES
+                            
+       ***portable means a python code is portable so it is called embeded programming language
+============================================================
+5)HIGH LEVEL:
+============================================================
+     It is one of high level language means it is user-friendly and user understandable language simply python language converts low level data representation to high level(user              understandable).
+     ex:=
+     -----
+          a=0b1111(low level)
+          print(a)-------->15(high level or user understandable)
+==============================================================
+6)EXTENSIBLE AND EMBEDDED:=
+==============================================================
+***Python provides code re-usability(functions) in no.of modules and libraries so python is  extensible one.
+     ex=
+     ----------
+       functions=length(),min(),max().......etc
+***python can also embedded with other languages so it is embedded.means python code only for python ,it is alsoembedded with c...etc.
+           ex=
+           ---
+              numpy is combination of c and python
+7)SUPPORTS 3RD PARTY API'S:=
+================================================================
+          ***It support 3rs party API's ex..numpy,scipy,matplotlib......etc .
